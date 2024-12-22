@@ -13,8 +13,6 @@
 - 💻 Experienced in tools and languages like **Python**, **SQL**, **Excel**, **Power BI**.
   
 - 🌟 Excited about uncovering stories hidden in data and using them to drive decisions.
-  
----
 
 #### 🛠️ Skills  
 
