@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 **About Me**
+### 🌟 About Me
 
 - 🎓 **Education**: Recent graduated in **Computer Science**.
   
