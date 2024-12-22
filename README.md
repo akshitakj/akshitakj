@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 About Me
+#### 🌟 About Me
 
 - 🎓 **Education**: Recent graduated in **Computer Science**.
   
@@ -16,7 +16,7 @@
   
 ---
 
-### 🛠️ Skills  
+#### 🛠️ Skills  
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn).
   
