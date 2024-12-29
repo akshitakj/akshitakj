@@ -1,5 +1,4 @@
 <h2 align="center">👋 Hi, I'm Akshita Jain!</h2>
-
 <h4 align="center">Aspiring Data Analyst | Data Enthusiast | Insight Explorer</h4>
 
 #### 🌟 About Me
