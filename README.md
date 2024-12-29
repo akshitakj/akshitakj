@@ -2,8 +2,6 @@
 
 <h4 align="center">Aspiring Data Analyst | Data Enthusiast | Insight Explorer</h4>
 
----
-
 #### 🌟 About Me
 
 - 🎓 **Education**: Recent graduated in **Computer Science**.
