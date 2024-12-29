@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hi, I'm Akshita Jain!</h2>
-<h4 align="center">Aspiring Data Analyst | Data Enthusiast | Insight Explorer</h4>
+<h3 align="center">👋 Hi, I'm Akshita Jain!</h3>
+<h4 align="center"> Aspiring Data Analyst | Data Enthusiast | Insight Explorer</h4>
 
 #### 🌟 About Me
 - 🎓 **Education**: Recent graduated in **Computer Science**.
